@@ -1,8 +1,29 @@
-modules:
+FrozencallModules:
 
-- agent.
-- leads.
-- campaing.
-- reporting.
-- security.
-- administration.
+- Agent.
+    - Make call button.
+    - Mute button.
+    - Visible identification when mute.
+
+- Leads.
+    - Lead import/export.
+    - Lead search.
+    
+- Campaing.
+    - 
+
+- Reporting.
+    - Real time dashboard.
+    - Campaing report.
+    - Aget performance report.
+    - Agent timesheet.
+    - Agent stats.
+    - Agent status report.
+    - Server performance.
+    - Call inbound/outbound report.
+
+- Security.
+    -
+
+- Administration.
+    - 
