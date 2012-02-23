@@ -1,0 +1,8 @@
+modules:
+
+- agent.
+- leads.
+- campaing.
+- reporting.
+- security.
+- administration.
