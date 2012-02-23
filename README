@@ -1,0 +1,8 @@
+frozencall.
+
+
+It's a predictive dialer. 
+http://en.wikipedia.org/wiki/Predictive_dialer
+
+The application is writen in PHP, and uses
+AGI and AMI for Asterisk interaction.
