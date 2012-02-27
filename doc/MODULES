@@ -1,7 +1,7 @@
 FrozencallModules:
 
 - Agent.
-    - Make call button.
+    - Make call button. (from automatic call to lead)
     - Mute button.
     - Visible identification when mute.
 
