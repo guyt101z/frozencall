@@ -1,14 +1,21 @@
 FrozencallModules:
 
 - Agent.
-    - Make call button. (from automatic call to lead)
+    - Main Screen.
+    - Make call button. (from automatic call to costumer)
     - Mute button.
     - Visible identification when mute.
 
-- Leads.
-    - Lead import/export.
-    - Lead search.
+- Costumers.
+    - Costumer phone number import/export.
+    - Costumer phone search.
     
+- Trunks. (ITSP or PSTN provider lines).
+   - 
+
+- Manager.
+   - Agents Dashboards. 
+
 - Campaing.
     - 
 
@@ -21,6 +28,7 @@ FrozencallModules:
     - Agent status report.
     - Server performance.
     - Call inbound/outbound report.
+    - Trunk performance.
 
 - Security.
     -
